@@ -1,0 +1,29 @@
+.header {
+    overflow: auto;
+}
+
+.links {
+    float: left;
+    list-style-type: none;
+}
+
+.links > li{
+    float:left;
+    margin-right: 5px
+}
+
+.page {
+    overflow:auto;
+    clear:both;
+}
+.sidebar {
+    float: right;
+    list-style-type: none;
+    padding: 10px
+    
+}
+
+.footer {
+    clear:both;
+    float: center;
+}
