@@ -19,9 +19,16 @@
     overflow:auto;
     clear:both;
 }
+
+.content{
+    background-color: seashell;
+    width: 75%;
+    height: 475px;
+}
 .sidebar {
     background-color:white;
     width:25%;
+    height:475px;
     float: right;
     list-style-type: none;
     padding: 5px;
@@ -32,3 +39,4 @@
     clear: both;
     text-align: center;
 }
+
